@@ -1,0 +1,3 @@
+# Chrome-Extension-Link-to-Twilio-Console
+This Chrome extension replaces every link on the webpage you're on with the link to the Twilio console. Other possibilities? Replace links to visit YouTube videos of Rick Astley, replace images to be funnier ones...
+
