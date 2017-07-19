@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "happy birthday, friend",
+	"description": "a chrome extension just for you", 
+	"version": "1.0",
+	"content_scripts": [
+        {
+        	"matches": [
+                "*://*/*"
+        	],
+        	"js": [
+                "main.js" 
+        	],
+        	"run_at": "document_end"
+        }
+	]
+}
